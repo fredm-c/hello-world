@@ -10,7 +10,7 @@ Run the greeter:
 python greet.py
 ```
 
-## Fetures
+## Features
 
 - Greets the user by name
 - Supports a custom message
